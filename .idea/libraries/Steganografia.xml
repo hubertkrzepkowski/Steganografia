@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Steganografia">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Steganografia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
